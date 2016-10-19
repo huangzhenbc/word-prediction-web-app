@@ -15,7 +15,7 @@ A shiny web app implementing n-gram algorithm for word prediction problems
 
 (1) 初步整理了中文、英文数据集；仍在继续整理
 
-(2) 完成了初版的处理数据集代码，生成了样例字典（结构正确但数据量不足的字典），并上传至github（就在这个目录下）
+(2) 完成了初版的处理数据集代码，生成了样例字典（结构正确但数据不对），并上传至github（就在这个目录下）
 
 (3) 前端解决方案已确定，将在下周上线初版及公开源码（同会上传至github这个目录下）
 
