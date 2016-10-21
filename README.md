@@ -61,4 +61,7 @@ http://kbroman.org/Tools4RR/assets/lectures/13_python.pdf
 
 http://www.predictiveanalyticstoday.com/top-free-software-for-text-analysis-text-mining-text-analytics/
 
+实用软件：
+
+[txt分割应用](http://www.textfilesplitter.com/)
 
