@@ -1,0 +1,10 @@
+name: text_prediction
+account: huangzhen
+server: shinyapps.io
+appId: 133641
+bundleId: 595720
+url: https://huangzhen.shinyapps.io/text_prediction/
+when: 1477368550.6444
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: blogssample.txt|newssample.txt|sample.txt|twittersample.txt
